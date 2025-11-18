@@ -1,7 +1,7 @@
 url: https://status.aqualunem.studio
-status: up
-code: 200
-responseTime: 354
-lastUpdated: 2025-11-17T23:12:13.232Z
+status: down
+code: 500
+responseTime: 126
+lastUpdated: 2025-11-18T11:41:27.952Z
 startTime: 2025-08-08T00:56:21.410Z
 generator: Upptime <https://github.com/upptime/upptime>
